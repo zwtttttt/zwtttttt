@@ -2,7 +2,7 @@
 - 👀 I’m interested in cv
 - 🌱 I’m currently learning some funny stuff
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 1030456532@qq.com
+- 📫 How to reach me @ @
 
 <!---
 zwtttttt/zwtttttt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
