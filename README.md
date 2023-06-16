@@ -1,3 +1,6 @@
+![Dong Yuanwai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwtttttt&theme=dark&show_icons=true)
+
+
 - 👋 Hi, I’m @zwtttttt
 - 👀 I’m interested in cv
 - 🌱 I’m currently learning some funny stuff
