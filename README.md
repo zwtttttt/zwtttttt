@@ -1,7 +1,4 @@
-<div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=zwtttttt&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zwtttttt&theme=vue&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
 
 - 👋 Hi, I’m @zwtttttt
 - 👀 I’m interested in cv
