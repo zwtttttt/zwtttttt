@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zwtttttt&theme=vue&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zwtttttt&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 - 👋 Hi, I’m @zwtttttt
 - 👀 I’m interested in cv
